@@ -6,6 +6,9 @@ package-lock.json
 npm-debug.log
 yarn-error.log
 
+# variables
+/api/config.js
+
 # other
 .nuxt
 dist
